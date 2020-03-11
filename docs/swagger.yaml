@@ -1,0 +1,9 @@
+info:
+  contact: {}
+  description: This is a sample server.
+  license: {}
+  termsOfService: http://swagger.io/terms/
+  title: Swagger Example API server
+  version: "2.0"
+paths: {}
+swagger: "2.0"
